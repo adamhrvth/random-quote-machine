@@ -52,8 +52,8 @@ const App = () => {
           id="new-quote"
           onClick = {() => getRandomQuote()}
           style={currentBackgroundColorStyle}
-          >
-            New quote
+        >
+          New quote
         </button>
       </div>
     </div>
