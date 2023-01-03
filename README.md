@@ -1,6 +1,6 @@
 # Random quote machine
 
-This is one of my first ReactJS projects. The quote machine has a basic functionality of fetching a random quote by clicking on the "New quote" button. There is also a quote initally by default when running the application.
+This is one of my first ReactJS projects. The quote machine has a basic functionality of displaying a random quote and it's author by clicking on the "New quote" button. There is also a quote initally by default when running the application.
 
 Quotations are fetched via the Quotable API (https://github.com/lukePeavey/quotable).
 
