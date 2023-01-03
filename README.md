@@ -4,7 +4,7 @@ This is one of my first ReactJS projects. The quote machine has a basic function
 
 Quotations are fetched via the Quotable API (https://github.com/lukePeavey/quotable).
 
-<img src="https://user-images.githubusercontent.com/83016858/210398251-032db4f5-5815-4635-b764-613c52dd9b28.png" height="320"><img src="https://user-images.githubusercontent.com/83016858/210398255-80b52672-e207-46e0-ac12-0e5025d28b4d.png" height="320">
+<img src="https://user-images.githubusercontent.com/83016858/210398251-032db4f5-5815-4635-b764-613c52dd9b28.png" height="320"><img src="https://user-images.githubusercontent.com/83016858/210399467-283d82ea-5326-41ab-b5b0-81822e718a7c.png" height="320">
 
 ## Installation
 
