@@ -1,0 +1,1 @@
+/api/* http://api.quotable.io/:splat 200

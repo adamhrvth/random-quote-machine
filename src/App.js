@@ -1,7 +1,7 @@
 import { useState, useEffect} from "react";
 import "./App.css";
 
-const RANDOM_QUOTE_API = "http://api.quotable.io/random";
+//const RANDOM_QUOTE_API = "http://api.quotable.io/random";
 
 const App = () => {
 
@@ -19,7 +19,8 @@ const App = () => {
 
 
   async function getRandomQuote() {
-    const response = await fetch(RANDOM_QUOTE_API);
+    //const response = await fetch(RANDOM_QUOTE_API);
+    const response = await fetch(`/api/random`);
     const quoteObj = await response.json();
     setQuoteData(quoteObj);
   };
